@@ -1,1 +1,3 @@
-# sql-simplified
+# SQL Simplified
+
+Coming Soon!
